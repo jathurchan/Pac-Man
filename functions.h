@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 // ======== Paramètres du terrain ========
 
 #define H_JEU 36    // Hauteur du jeu
